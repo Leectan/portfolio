@@ -173,7 +173,7 @@ export default function Home() {
                       label: "Twitter",
                     },
                     {
-                      href: "mailto:hello@leectan.com",
+                      href: "mailto:ltan@ltcorps.com",
                       icon: <AiOutlineMail />,
                       label: "Email",
                     },
