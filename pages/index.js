@@ -88,7 +88,7 @@ export default function Home() {
           name="description"
           content="Personal website of Lee C Tan — healthcare professional turned tech enthusiast, building at the intersection of AI and security."
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </Head>
 
       <div className="min-h-screen bg-white dark:bg-[#0f172a] transition-colors duration-300">
